@@ -1,7 +1,7 @@
 {
   
-    "name": "Hello Extensions",
-    "description": "Base Level Extension",
+    "name": "QikTrails Extensions",
+    "description": "Free Trials Credentials",
     "version": "1.0",
     "manifest_version": 2,
     "browser_action": {
